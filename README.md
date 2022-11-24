@@ -36,6 +36,7 @@
 * 添加服务
 * 自删除
 * 下载文件至目标机器
+* 白远控利用
 * 自实现systeminfo，cat，ipconfig，whoami，quser，nslookup命令
 
 ## 删除功能
